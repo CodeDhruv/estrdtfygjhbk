@@ -1,0 +1,57 @@
+#input_word {
+    width: 90%;
+    height: 60px;
+    border-radius: 50px;
+    margin-top: 50px;
+    border-width: 0px;
+    text-align: center;
+    font-size: large;
+}
+
+body {
+    text-align: center;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 16px;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+
+}
+
+#btn_search {
+    height: 60px;
+    width: 60px;
+    font-size: 25px;
+    border-radius: 1000px;
+    background-color: white;
+    border-width: 0px;
+}
+
+#h3 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#main_div {
+    background-color: wheat;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+    
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    bottom: 0px;
+    background: linear-gradient(90deg, #ff8787 0%, #d9e7ff 100%);
+    line-height: 3;
+}
+#div_note{
+    position: fixed;
+    float: left;
+    color: #00C9FF;
+}
+#vol{
+    background-color: transparent;
+    bottom: 0px;
+    border-width: 0.0px;
+}
